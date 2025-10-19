@@ -15,7 +15,7 @@ A specialized JavaScript library for detecting honeypot tokens on Binance Smart 
 ## Installation
 
 ```bash
-npm install bsc-honeypot-detector
+npm install @mraicodedev/bsc-honeypot-detector
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ npm install bsc-honeypot-detector
 ### Method 1: Simple function usage
 
 ```javascript
-const { checkHoneypot } = require('bsc-honeypot-detector');
+const { checkHoneypot } = require('@mraicodedev/bsc-honeypot-detector');
 
 async function main() {
   const tokenAddress = '0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82'; // CAKE
@@ -38,7 +38,7 @@ async function main() {
 ### Method 2: Using HoneypotDetector class
 
 ```javascript
-const { HoneypotDetector } = require('bsc-honeypot-detector');
+const { HoneypotDetector } = require('@mraicodedev/bsc-honeypot-detector');
 
 async function main() {
   const detector = new HoneypotDetector();
@@ -57,7 +57,7 @@ async function main() {
 ### Method 3: Check multiple tokens at once
 
 ```javascript
-const { checkMultipleTokens } = require('bsc-honeypot-detector');
+const { checkMultipleTokens } = require('@mraicodedev/bsc-honeypot-detector');
 
 async function main() {
   const tokens = ['0x...', '0x...', '0x...'];

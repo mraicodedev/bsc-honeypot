@@ -1,4 +1,7 @@
-const { checkHoneypot } = require('../src/index');
+const { checkHoneypot } = require('@mraicodedev/bsc-honeypot-detector');
+
+// For local development, use:
+// const { checkHoneypot } = require('../src/index');
 
 async function testHoneypotDetector() {
   console.log('🚀 BSC Honeypot Detector Test\n');

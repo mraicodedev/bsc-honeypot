@@ -1,6 +1,6 @@
 {
   "name": "@mraicodedev/bsc-honeypot-detector",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A specialized library for detecting honeypot tokens on Binance Smart Chain, optimized for meme coins and shitcoins",
   "main": "src/index.js",
   "scripts": {
