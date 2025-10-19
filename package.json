@@ -1,6 +1,6 @@
 {
-  "name": "bsc-honeypot-detector",
-  "version": "1.0.0",
+  "name": "@mraicodedev/bsc-honeypot-detector",
+  "version": "1.0.1",
   "description": "A specialized library for detecting honeypot tokens on Binance Smart Chain, optimized for meme coins and shitcoins",
   "main": "src/index.js",
   "scripts": {
@@ -11,7 +11,10 @@
     "token", "token-analysis", "defi", "dex", "pancakeswap", 
     "meme-coin", "shitcoin", "crypto", "blockchain", "ethereum", 
     "web3", "trading", "liquidity", "security", "scam-detection",
-    "biswap", "apeswap", "javascript", "nodejs", "npm"
+    "biswap", "apeswap", "javascript", "nodejs", "npm",
+    "rugpull", "rug-pull", "token-scanner", "crypto-security",
+    "smart-contract", "evm", "polygon", "arbitrage", "yield-farming",
+    "automated-trading", "risk-assessment", "due-diligence"
   ],
   "author": {
     "name": "MrAI Code",
@@ -20,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mraicodedev/bsc-honeypot-detector.git"
+    "url": "https://github.com/mraicodedev/bsc-honeypot.git"
   },
   "bugs": {
-    "url": "https://github.com/mraicodedev/bsc-honeypot-detector/issues"
+    "url": "https://github.com/mraicodedev/bsc-honeypot/issues"
   },
-  "homepage": "https://github.com/mraicodedev/bsc-honeypot-detector#readme",
+  "homepage": "https://github.com/mraicodedev/bsc-honeypot#readme",
   "license": "MIT",
   "dependencies": {
     "ethers": "^6.8.0",

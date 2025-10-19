@@ -181,9 +181,9 @@ npm test
 
 If this library is useful to you, please consider donating to support development:
 
-**BSC Address**: `0x531B703B48e17e63Db760D2c1796795aEa123456`
+**EVM Address**: `0x531B703B48e17e63Db760D2c1796795aEa123456`
 
-Accepted tokens: BNB, USDT, BUSD, CAKE and other tokens on BSC.
+Accepted tokens: BNB, ETH, USDT, USDC, MATIC and other tokens on EVM chains (BSC, Ethereum, Polygon, Arbitrum).
 
 💝 All contributions are appreciated and help maintain the project!
 

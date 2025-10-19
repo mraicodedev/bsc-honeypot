@@ -12,7 +12,7 @@
 - **Email**: mraicodedev@gmail.com
 
 ### 💝 Support
-- **BSC Address**: `0x531B703B48e17e63Db760D2c1796795aEa123456`
+- **EVM Address**: `0x531B703B48e17e63Db760D2c1796795aEa123456`
 
 ---
 
